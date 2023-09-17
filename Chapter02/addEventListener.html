@@ -1,0 +1,14 @@
+<p id="signup"> 
+    Please SignUp 
+</p> 
+ 
+<button id="myBtn" /> 
+ 
+<script> 
+    const element = document.getElementById("myBtn"); 
+    element.addEventListener('click', onSignUp); 
+
+    function onSignUp() {  
+        document.getElementById("signup").innerHTML +=       'SignUp completed'; 
+    } 
+</script> 
