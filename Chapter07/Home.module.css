@@ -1,0 +1,14 @@
+/* Home.module.css */
+
+.main {
+  display: flex;
+  padding: 2rem;
+  color: #ffffff;
+}
+
+.box {
+  background-color: rgb(241, 255, 240);
+  color: #000;
+  padding: 1rem;
+  margin: 1rem;
+}

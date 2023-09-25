@@ -1,0 +1,19 @@
+query {
+  menu {
+    id
+    name
+    foodType
+    description
+    img
+    nutrition {
+      carbohydrates
+      energy
+      fat
+      fibre
+      protien
+      salt
+      saturatedFat
+      sugar
+    }
+  }
+}

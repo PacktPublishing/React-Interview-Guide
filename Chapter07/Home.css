@@ -1,0 +1,15 @@
+/* Home.css */
+
+.container {
+  margin: 0 auto;
+  display: flex;
+  flex-flow: column nowrap;
+  background-color: #0384c8;
+  padding: 2rem;
+}
+
+.main-content {
+  display: flex;
+  flex-flow: row nowrap;
+  padding: 2rem 0;
+}

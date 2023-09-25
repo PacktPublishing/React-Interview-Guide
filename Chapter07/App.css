@@ -1,0 +1,13 @@
+/* App.css */
+
+.container {
+  text-align: center;
+  margin: 0 auto;
+  background-color: #bada55;
+  padding: 1rem;
+}
+
+.title {
+  font-size: 2rem;
+  font-weight: bold;
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "post": {
+      "id": "1",
+      "title": "Hello World",
+      "content": "Welcome to my first blog.",
+      "author": {
+        "id": "64",
+        "name": "Jack Thomas",
+        "email": "jackthomas@gamil.com"
+      }
+    }
+  }
+}

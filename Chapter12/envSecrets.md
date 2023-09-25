@@ -1,0 +1,5 @@
+NEXTAUTH_SECRET="yournextsecret"
+GITHUB_ID="yourgithubid"
+GITHUB_SECRET="yourgithubsecret"
+GOOGLE_ID="yourgoogleid"
+GOOGLE_SECRET="yourgooglesecret"
