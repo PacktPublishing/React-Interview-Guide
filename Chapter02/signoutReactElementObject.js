@@ -4,8 +4,8 @@
       children: {
           type: 'button',
           props:  {
-              children: 'SingOut'
-              id: 'singout-btn'
+              children: 'Sign Out'
+              id: 'signout-btn'
           }
       },
       id: 'signout-container'

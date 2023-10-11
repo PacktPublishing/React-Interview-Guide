@@ -1,4 +1,4 @@
-function Employee({name, age, department}) {
+function Employee({ name, age, department }) {
     return (
         <>
             <span>Name: {name} </span>
