@@ -1,13 +1,13 @@
 function CitySearch() { 
     return ( 
-       <> 
+       <div> 
         <h2>Find city:</h2> 
         <form> 
-            <label> 
+            <span> 
                 City: 
-                <input onChange={handleCitySearch} /> 
-            </label> 
+            </span>
+            <input onChange={handleCitySearch} /> 
         </form> 
-       </> 
+       </div> 
     ) 
  }

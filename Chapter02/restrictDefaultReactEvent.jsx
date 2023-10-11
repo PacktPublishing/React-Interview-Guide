@@ -2,7 +2,7 @@ function Login() {
 
     function handleSubmit(e) { 
         e.preventDefault(); 
-        console.log('You submittedLogin form.'); 
+        console.log('You submitted login form.'); 
     }	 
     
     return (
