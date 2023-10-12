@@ -1,5 +1,3 @@
-useEffect(() => { 
-
-    // Runs after initial render 
-    
-    }, []); 
+useEffect(() => {
+  // Runs after initial render
+}, []);
