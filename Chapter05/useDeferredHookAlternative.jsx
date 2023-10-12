@@ -1,0 +1,1 @@
+const deferredAuthorDetails = useDeferredValue(author);

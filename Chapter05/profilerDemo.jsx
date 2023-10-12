@@ -1,6 +1,6 @@
-<App> 
-  <Profiler id="bio" onRender={onRender}> 
-    <AuthorBio /> 
-  </Profiler> 
-  <Posts /> 
-</App> 
+<App>
+  <Profiler id="bio" onRender={onRender}>
+    <AuthorBio />
+  </Profiler>
+  <Posts />
+</App>

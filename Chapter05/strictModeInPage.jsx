@@ -1,11 +1,11 @@
-<> 
-  <Navigation> 
-    <Details> 
-    <StrictMode> 
-        <Services /> 
-        <Support /> 
-    </StrictMode> 
-    </Details> 
-    <Footer /> 
-  </Navigation> 
-</>
+<>
+  <Navigation>
+    <Details>
+      <StrictMode>
+        <Services />
+        <Support />
+      </StrictMode>
+    </Details>
+    <Footer />
+  </Navigation>
+</>;
