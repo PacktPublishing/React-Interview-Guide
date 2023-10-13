@@ -1,7 +1,7 @@
-const mapDispatchToProps = (dispatch) => { 
-    return { 
-      onCitySelection: (city) => { 
-        dispatch(changeCity(city)); 
-      }, 
-    }; 
+const mapDispatchToProps = (dispatch) => {
+  return {
+    toggleCity: (city) => {
+      dispatch(changeCity(city));
+    },
+  };
 };

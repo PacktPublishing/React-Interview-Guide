@@ -1,8 +1,8 @@
-const rootElement = document.getElementById('root') 
+const rootElement = document.getElementById("root");
 
-render( 
-  <Provider store={store}> 
-    <App /> 
-  </Provider>, 
-  rootElement 
-)
+render(
+  <Provider store={store}>
+    <App />
+  </Provider>,
+  rootElement
+);

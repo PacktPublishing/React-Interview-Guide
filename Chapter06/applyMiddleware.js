@@ -1,0 +1,1 @@
+const middleware = applyMiddleware(loggerMiddleware);

@@ -1,3 +1,3 @@
 const mapDispatchToProps = { 
-    onCitySelection: toggleCity 
+    toggleCity 
 }; 
