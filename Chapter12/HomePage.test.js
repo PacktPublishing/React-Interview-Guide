@@ -1,12 +1,10 @@
 import { render, screen } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import Home from './page';
-
 describe('Home', () => {
   it('renders without crashing', () => {
     render(<Home />);
   });
-
   it('displays the correct heading and intro', () => {
     render(<Home />);
     expect(screen.getByText('Summer time is here!')).toBeInTheDocument();
