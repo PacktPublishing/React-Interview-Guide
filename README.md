@@ -26,7 +26,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/React-I
 alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
-All of the files is organized into folders. For example, Chapter1
+All of the files is organized into folders. For example, Chapter2
 
 
 **Following is what you need for this book:**
@@ -34,7 +34,7 @@ All of the files is organized into folders. For example, Chapter1
 Are you struggling with React job interviews, feeling hindered by the lack of knowledge or confidence? Look no further than the React Interview Guide. Complete with the latest features of the React library, this comprehensive solution will assist you in taking a definitive step forward in your career as a React developer.
 
 
-With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
+With the following software and hardware list you can run all code files present in the book (Chapter 2-12).
 
 ### Software and Hardware List
 | Software required                    | OS required                         |
